@@ -1,3 +1,7 @@
+#hosting link:-https://itsakash1285.github.io/BookShop_CRUD_app-REACT/
+
+#deploy link:-https://bookshop-crud-app-react.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
